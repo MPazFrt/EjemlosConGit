@@ -1,2 +1,8 @@
 Hoy 5 de Noviembre estamos haciendo una presentacion con ejemplo en la herramienta de control de versiones que es GIT.
 Aqui en la rama de desarrollo vamos hacer cambios.
+Estudiantes Presentes:
+Matias
+Jose
+Eloisa
+Lucia
+
